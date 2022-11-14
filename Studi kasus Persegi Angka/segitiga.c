@@ -3,7 +3,7 @@
 int main(void)
 {
   printf("## Program Bahasa C Persegi Angka ## \n");
-  printf("==================================== \n\n");
+  printf("====================================\n\n\n");
  
   int besar_persegi,i,j;
  
